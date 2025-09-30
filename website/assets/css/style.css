@@ -1,3 +1,42 @@
 body{
     background: #BDBDBD;
 }
+.navbar{
+    width: 100%;
+    color: gray;
+}
+.galery{
+    width: 100%;
+    height: 520px;
+    border: 1px solid rgb(241, 234, 234);
+}
+#galery1{
+    background: url(https://www.uai.com.br/uainoticias/wp-content/uploads/2025/07/Belo-Horizonte_1751562997841.jpg) center center no-repeat;
+    background-size: cover;
+    
+}
+.title{
+    text-align: center;
+    width: 1450px;
+    margin-top: 60px;
+    background-color: aliceblue;
+     margin-left: 2px;
+    margin-right: 2px;
+    padding: auto;
+    
+}
+.title1{
+    text-align: center;
+    width: 1450px;
+    margin-top: 20px;
+    background-color: aliceblue;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: auto;
+}
+h1{
+    font-size: 120px;
+}
+h2{
+    font-size: 70px;
+}
