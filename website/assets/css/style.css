@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: white;
 }
 .navbar{
     width: 100%;
@@ -13,7 +13,7 @@ body{
 #galery1{
     background: url(https://www.uai.com.br/uainoticias/wp-content/uploads/2025/07/Belo-Horizonte_1751562997841.jpg) center center no-repeat;
     background-size: cover;
-    
+        
 }
 .title{
     text-align: center;
